@@ -62,8 +62,6 @@ function App() {
     "09n": showerrainIcon,
     "10d": rainIcon,
     "10n": rainIcon,
-    "11d": thunderstormIcon,
-    "11n": thunderstormIcon,
     "11d": thunderstormrainIcon,
     "11n": thunderstormrainIcon,
     "13d": snowIcon,
